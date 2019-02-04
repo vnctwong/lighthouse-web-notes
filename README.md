@@ -1,3 +1,6 @@
-Vincent's Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+# Vincent's Notes
+
+## Summary
+This repository contains all of the notes taken by [Vincent Wong](https://github.com/vnctwong) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
+
